@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://github.com/deppfellow/deppfellow/blob/d9be809caa5eaa00f950cd03cd46d0bf08b4714f/asset/header.png)
+![Banner](https://github.com/deppfellow/deppfellow/blob/d9be809caa5eaa00f950cd03cd46d0bf08b4714f/asset/coffiema.png)
 
 ### Hi folks 👋, I'm Ra'id Rafif. A little bit you may want to know about me:
 - 🔭 My online name goes by Deppfellow
-- 🌱 I write online articles & notes on technologies and languages subject. You can find it in my `article-notes` repository
-- ⚡ My skillset lies in realm of data analytics and web development. Feel free to ask me within this subjects.
-- 👯 I can speak in Indonesian (native) and English, while currently learning Chinese (can read, but not speak yet)
+- ⚡ Webdev for money, embedded for hobby
+- 👯 I can speak in Indonesian (native) and English, while currently learning Japanese (can read, not-so-much speak yet)
 
 ---
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
