@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://github.com/deppfellow/deppfellow/blob/425b2a888bc76e92bb7774b44b6b24b9250942db/asset/coffiema.webp)
+![Banner](https://github.com/deppfellow/deppfellow/blob/425b2a888bc76e92bb7774b44b6b24b9250942db/asset/coffiema.jpg)
 
 ### Hi folks 👋, I'm Ra'id Rafif. A little bit you may want to know about me:
 - 🔭 My online name goes by Deppfellow
