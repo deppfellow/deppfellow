@@ -1,0 +1,49 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "websearch": "allow",
+    "codesearch": "allow"
+  },
+  "mcp": {
+    "context7": {
+      "type": "remote",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "<CONTEXT7_API_KEY>"
+      },
+      "enabled": true
+    },
+    "playwright": {
+      "type": "local",
+      "command": [
+        "npx",
+        "@playwright/mcp@latest"
+      ],
+      "enabled": true
+    },
+    "serena": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "--from",
+        "git+https://github.com/deppfellow/serena",
+        "serena",
+        "start-mcp-server",
+        "--context",
+        "opencode"
+      ],
+      "enabled": true
+    }
+  },
+  "plugin": [
+    "file:///tmp/bunx-1000-oh-my-opencode-slim@latest/node_modules/oh-my-opencode-slim/dist/index.js"
+  ],
+  "agent": {
+    "explore": {
+      "disable": true
+    },
+    "general": {
+      "disable": true
+    }
+  }
+}

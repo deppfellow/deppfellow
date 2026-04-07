@@ -1,0 +1,56 @@
+{
+  "update.mode": "manual",
+  // Editor settings
+  "editor.fontFamily": "MonoLisa Variable",
+  "editor.fontSize": 12,
+  "editor.lineHeight": 0,
+  "editor.suggestFontSize": 15,
+  "editor.suggestLineHeight": 28,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.letterSpacing": 0.4,
+  "editor.fontLigatures": true,
+  "editor.smoothScrolling": true,
+  "editor.suggestSelection": "first",
+  "editor.cursorWidth": 2,
+  "editor.formatOnSave": true,
+  // Terminal settings
+  "terminal.integrated.fontSize": 10,
+  "terminal.integrated.lineHeight": 1.5,
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": "single",
+  "workbench.colorTheme": "Ayu Dark Bordered",
+  //   Window settings
+  "window.newWindowProfile": "Default",
+  // GithubCopilot configurations
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "chat.disableAIFeatures": false,
+  // Background configurations
+  "background.enabled": true,
+  "background.fullscreen": {
+    "useFront": true,
+    "style": {
+      // "background-position": "100% 100%",
+      "background-position": "center",
+      "background-size": "cover",
+      "opacity": 0.15
+    },
+    "styles": [
+      {},
+      {},
+      {}
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/deppfellow/dumps/refs/heads/main/themes/LococoP_MsMostima.jpg"
+    ],
+    "interval": 0,
+    "random": false
+  },
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true
+  },
+  "remote.autoForwardPortsSource": "hybrid",
+  "chat.mcp.gallery.enabled": true
+}
