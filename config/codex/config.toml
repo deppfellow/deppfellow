@@ -1,0 +1,24 @@
+model = "gpt-5.5"
+model_reasoning_effort = "low"
+personality = "pragmatic"
+approvals_reviewer = "auto_review"
+
+[tui]
+theme = "gruvbox-dark"
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
+
+[mcp_servers.fff]
+command = "fff-mcp"
+args = []
+
+[mcp_servers.context7]
+type = "http"
+url = "https://mcp.context7.com/mcp"
+
+[mcp_servers.context7.http_headers]
+CONTEXT7_API_KEY = "<CONTEXT7_API_KEY>"
+
+[notice]
+hide_rate_limit_model_nudge = true
